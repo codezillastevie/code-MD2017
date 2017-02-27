@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Code MD 2017
 
-You can use the [editor on GitHub](https://github.com/codezillastevie/code-MD2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a discussion of the art of Miles Dewey Davis III, music, style, social commentary and lifestyle.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Comments are welcome from other contributors and any media associated with the project would be greatly appreciated and acknowledged to the contributor.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
