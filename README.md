@@ -1,18 +1,18 @@
-## Welcome to Code MD 2017
+## Welcome to Enthusiasm Uncurbed
 
-This is a discussion of the art of Miles Dewey Davis III, music, style, social commentary and lifestyle.
+This is a discussion of the minutae of living every day ordinary life.
 
-Comments are welcome from other contributors and any media associated with the project would be greatly appreciated and acknowledged to the contributor.
+Comments are welcome from other contributors.
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Small every day moments make for comedy in sketches as witnessed by the sitcom of television.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Daily Life 1
+## Minutae 2
+### Living In a Sitcom World 3
 
 - Bulleted
 - List
